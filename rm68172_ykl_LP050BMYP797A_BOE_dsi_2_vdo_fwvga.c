@@ -23,7 +23,7 @@
 #define FRAME_WIDTH  (720)
 #define FRAME_HEIGHT (1280)
 #define REGFLAG_DELAY (0xFE)
-#define REGFLAG_END_OF_TABLE ()
+#define REGFLAG_END_OF_TABLE (0xFF)
 
 /* Local Variables */
 #define SET_RESET_PIN(v) (lcm_util.set_reset_pin((v)))
