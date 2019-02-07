@@ -22,7 +22,7 @@
 /* --------------------------------------------------------------------------- */
 #define FRAME_WIDTH  (720)
 #define FRAME_HEIGHT (1280)
-#define REGFLAG_DELAY ()
+#define REGFLAG_DELAY (0xFE)
 #define REGFLAG_END_OF_TABLE ()
 
 /* Local Variables */
