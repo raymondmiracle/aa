@@ -20,8 +20,6 @@
 /* --------------------------------------------------------------------------- */
 /* Local Constants */
 /* --------------------------------------------------------------------------- */
-#define FRAME_WIDTH  (720)
-#define FRAME_HEIGHT (1280)
 #define REGFLAG_DELAY (0xFD)
 #define REGFLAG_END_OF_TABLE (0xFE)
 
